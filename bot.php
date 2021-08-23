@@ -6,7 +6,7 @@ set_time_limit(0);
 ob_start();
 //Bu kod @PHP_New kanali orqali tarqatildi
 
-$API_KEY = '950794671:AAFfMdpu7ByYNNk4_rQj5s9cBJgg5uZT4BY';
+$API_KEY = '1451101893:AAEtx1PS_NV3CtArocVSU9-fqGdEJwgLliA';
 
 define('API_KEY', $API_KEY);
 function bot($method, $datas = [])
